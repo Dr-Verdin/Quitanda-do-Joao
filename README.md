@@ -1,2 +1,2 @@
-# Quitanda-do-Jo-o
+# Quitanda-do-Joao
 Exercício Introdutório de Algoritmos Avançados
